@@ -21,3 +21,10 @@ A simple mock API server using Express to simulate responses for specific routes
 
 ```bash
 npm install testing-api-server
+
+##Usage
+  1- Import the package in your project;
+        const testingApiServer = require('testing-api-server');
+  2- Start the mock API server:
+        testingApiServer.start();
+  3- Access mock data at predefined routes (e.g., /api/users, /api/posts).
