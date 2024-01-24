@@ -22,7 +22,7 @@ A simple mock API server using Express to simulate responses for specific routes
 ```bash
 npm install testing-api-server
 
-##Usage
+###Usage
   1- Import the package in your project;
         const testingApiServer = require('testing-api-server');
   2- Start the mock API server:
@@ -30,21 +30,21 @@ npm install testing-api-server
   3- Access mock data at predefined routes (e.g., /api/users, /api/posts).
 
 
-##Configuration
+###Configuration
 Port: By default, the server listens on port 3000. You can set the PORT environment variable to change the port.
 Contributing
 Contributions are welcome! Please read the Contributing Guidelines for details on how to contribute to this project.
 
-##License
+###License
 This project is licensed under the ISC License.
 
-##Acknowledgments
+###Acknowledgments
 Thanks to the Express team for the powerful web application framework.
 Mock data inspired by real-world scenarios.
 
-##Contact
+###Contact
 For questions or feedback, feel free to contact the project maintainer:
 
-Your Name
+Kratik Bohra
 Email: kratikbohra5@gmail.com
 LinkedIn: www.linkedin.com/in/kratik-bohra-11a39a195
